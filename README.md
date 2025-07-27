@@ -36,26 +36,25 @@
 
 ---
 
-## 💻 Sample Output
-
-### ➤ Finding Whether the Number is Positive or Negative
-Value of a: 17
-Value of b: -8
-A is a +ve number.
-B is a -ve number.
-
 shell
 Copy
 Edit
 
 ### ➤ Grade Calculator
 ```cpp
-Marks of subject 1 : 24
-Marks of subject 2 : 76
-Marks of subject 3 : 65
-Marks of subject 4 : 89
-Marks of subject 5 : 94
-Grade A+
+/* OUTPUT EXAMPLE
+Enter first number : 2
+Enter second number : 9
+Addition: 11
+Subtraction: -7
+Multiplication: 18
+Division: 0.222222
+
+Is a greater than b? : 0
+Is a > 0 and b > 0? : 1
+Is a > 0 or b > 0? : 1
+
+THE OUTPUT IS TRUE WHEN ITS 1 AND FALSE WHEN ITS 0. */
 ```
 
 ## ✅ Conclusion
